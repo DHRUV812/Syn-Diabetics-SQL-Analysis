@@ -1,4 +1,4 @@
-# Syn-Diabetics-SQL-Analysis[README.md](https://github.com/user-attachments/files/33773800/README.md)
+
 # Diabetes Complications, Treatment & Risk Analysis (SQL)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHRUV812/Syn-Diabetics-SQL-Analysis/blob/main/Syn_Diabetics_SQL_Analysis.ipynb)
